@@ -1,2 +1,2 @@
-# StudyRecord
-Unity学习记录
+﻿* AudioManager（音频管理器）
+    >  工程主要是实现背景音乐以及音效的全局管理

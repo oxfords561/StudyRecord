@@ -19,14 +19,14 @@ public class AudioEffectMgr : MonoBehaviour
         Instance = this;
     }
 
-    public static float Volume = 0.2f;//音量，取值范围：0-1
+    public static float Volume = 1f;//音量，取值范围：0-1
 
     //声音播放器缓存列表（类似PoolManager）
     private List<AudioInfo> m_AudioList = new List<AudioInfo>();
 
-    public void PlayUIAudioEffect(UIAudioEffectType type)
+    public void PlayUI()
     {
-        Play("Download/Audio/UI/"+ type.ToString() + ".mp3", Vector3.zero);
+        Play("Audio/UI.mp3", Vector3.zero);
     }
 
     /// <summary>
@@ -200,7 +200,7 @@ public class AudioInfo
         CurrAudioSource.minDistance = 30;//按距离衰减模式---起始衰减距离（当AudioSource到AudioListener之间的距离，大于这个数值时才开始音量衰减）
         CurrAudioSource.maxDistance = 200;//按距离衰减模式---结束衰减距离（当AudioSource到AudioListener之间的距离，小于这个数值时则声音再也听不到了
         CurrAudioSource.clip = audioclip;
-        CurrAudioSource.panStereo = 1;
+        CurrAudioSource.panStereo = 0.5f;
     }
 
     /// <summary>

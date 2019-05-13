@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\AudioBackGroundMgr.cs" />
      <Compile Include="Assets\Script\AudioEffectMgr.cs" />
+     <Compile Include="Assets\Script\Test.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>D:/Unity2017.4.8/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>

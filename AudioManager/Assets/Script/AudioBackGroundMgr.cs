@@ -18,7 +18,7 @@ public class AudioBackGroundMgr : MonoBehaviour
     private AudioSource m_AudioSource; //音源
     private AudioClip m_PrevAudioClip; //上一个播放的背景音乐
     private string m_AudioName; //播放的背景音乐名称
-    private float m_MaxVolume = 0.01f;//最大音量
+    private float m_MaxVolume = 1f;//最大音量
 
     public static AudioBackGroundMgr Instance;
 
@@ -58,7 +58,7 @@ public class AudioBackGroundMgr : MonoBehaviour
 
         AudioClip audioClip = null;
 
-        audioClip = UnityEditor.AssetDatabase.LoadAssetAtPath<AudioClip>(string.Format("Assets/Download/Audio/BackGround/{0}.mp3", m_AudioName));
+        audioClip = UnityEditor.AssetDatabase.LoadAssetAtPath<AudioClip>(string.Format("Assets/Audio/{0}.mp3", m_AudioName));
 
         if (m_AudioSource.isPlaying && m_AudioSource.clip == audioClip)
         {

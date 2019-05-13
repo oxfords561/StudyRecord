@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1488295866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d773e8f7b296417eb8b28a45907a8c79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/SmallMap/SmallMap_ShanGu2.png
+Dependencies: []

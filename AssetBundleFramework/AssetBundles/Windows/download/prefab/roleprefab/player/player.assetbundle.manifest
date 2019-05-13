@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2421856632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f598ef209dd5c5ea0d1ba44db6c7aeed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf3f348e2267d190e6df40cbb42919b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Prefab/RolePrefab/Player/Player.prefab
+Dependencies:
+- D:/UnityStudy/AssetBundleFramework/Assets/../AssetBundles/Windows/download/source/uisource/ff1.assetbundle

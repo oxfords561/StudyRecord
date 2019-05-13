@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3454990564
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d0dc8b9e2105acf6a1ef874f69b23d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UICommonSilder/Slider2_F.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2033949381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 209960b8e5ba5a9e3393a88e5ae01b53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/Recharge/Recharge_Guang.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1165850446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b88326a9ea487b64d95c9a9ee132e96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/WorldMap/changan.png
+Dependencies: []

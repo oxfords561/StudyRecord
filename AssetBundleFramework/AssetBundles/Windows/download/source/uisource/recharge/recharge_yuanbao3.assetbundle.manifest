@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3023374691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eecf32501ab727bb545bfc075ca80c65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/Recharge/Recharge_YuanBao3.png
+Dependencies: []

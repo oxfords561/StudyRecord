@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1472987868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35ea9ed3629b8a23b7d9dd46729f8403
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/GameLevel/gameLevel2.png
+Dependencies: []

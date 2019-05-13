@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1805170378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8b5283a73985c52116ade34c35b476f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UICommonSilder/Slider2_BG.png
+- Assets/Download/Source/UISource/UICommonSilder/Slider2_F.png
+- Assets/Download/Source/UISource/UICommonSilder/Tap_BG.png
+Dependencies: []

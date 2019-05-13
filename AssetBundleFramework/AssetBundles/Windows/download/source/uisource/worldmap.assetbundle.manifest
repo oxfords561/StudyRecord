@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3150068710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7fa90a4bb7fff5e606832a89531c966
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/WorldMap/hangzhou.png
+- Assets/Download/Source/UISource/WorldMap/xuedi.png
+- Assets/Download/Source/UISource/WorldMap/pingyuan.png
+- Assets/Download/Source/UISource/WorldMap/shamo.png
+- Assets/Download/Source/UISource/WorldMap/shangu.png
+- Assets/Download/Source/UISource/WorldMap/digong.png
+- Assets/Download/Source/UISource/WorldMap/hupaocun.png
+- Assets/Download/Source/UISource/WorldMap/changan.png
+Dependencies: []

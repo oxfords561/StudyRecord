@@ -8,3 +8,7 @@ AudioManager/Logs/
 AudioManager/obj/Debug/
 
 AssetBundleFramework/Library/
+
+Lua/Library/
+
+Lua/Temp/

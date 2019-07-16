@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3353952543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9af8f4d7504e34fe8fffe5a5077c0443
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UICommon/shop_time.png
+Dependencies: []

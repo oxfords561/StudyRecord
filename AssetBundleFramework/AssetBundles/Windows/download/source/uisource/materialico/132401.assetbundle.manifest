@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2756548042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2dfde04df627b2cda763b9b2cc5d64a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/MaterialIco/132401.png
+Dependencies: []

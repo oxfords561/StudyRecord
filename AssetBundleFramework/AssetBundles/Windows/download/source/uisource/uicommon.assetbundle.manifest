@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1439985954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e56f85a43f47bbfdb0e2329c0bdd7c49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UICommon/shop_discount.png
+- Assets/Download/Source/UISource/UICommon/Ico_Exp.png
+- Assets/Download/Source/UISource/UICommon/btn_Arrows.png
+- Assets/Download/Source/UISource/UICommon/shop_new.png
+- Assets/Download/Source/UISource/UICommon/btn_Tab.png
+- Assets/Download/Source/UISource/UICommon/CancelAutoFight.png
+- Assets/Download/Source/UISource/UICommon/btn_weixin.png
+- Assets/Download/Source/UISource/UICommon/AutoFight.png
+- Assets/Download/Source/UISource/UICommon/Ico_Start.png
+- Assets/Download/Source/UISource/UICommon/btn_Small.png
+- Assets/Download/Source/UISource/UICommon/shop_hot.png
+- Assets/Download/Source/UISource/UICommon/btn_Tab2.png
+- Assets/Download/Source/UISource/UICommon/shop_time.png
+Dependencies: []

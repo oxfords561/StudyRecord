@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3227900683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0ca882d30c8e95a593bf3f2a9ffcf04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/GameLevel/gameLevel3.png
+- Assets/Download/Source/UISource/GameLevel/VictoryBG2.png
+- Assets/Download/Source/UISource/GameLevel/Resurgence.png
+- Assets/Download/Source/UISource/GameLevel/GameLevelVictoryBG.png
+- Assets/Download/Source/UISource/GameLevel/VictoryTitle.png
+- Assets/Download/Source/UISource/GameLevel/GameLevelVictoryRoleFail.png
+- Assets/Download/Source/UISource/GameLevel/FailTitle.png
+- Assets/Download/Source/UISource/GameLevel/gameLevel2.png
+- Assets/Download/Source/UISource/GameLevel/FightBeginTitle.png
+- Assets/Download/Source/UISource/GameLevel/gameLevel1.png
+- Assets/Download/Source/UISource/GameLevel/GameLevelVictoryRole.png
+Dependencies: []

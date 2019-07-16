@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 834814180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d136da4d5bf48d2fd82622e60c4cdfc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Source/UISource/UICommon/Ico_Start.png
+Dependencies: []
